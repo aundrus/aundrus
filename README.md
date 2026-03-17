@@ -26,23 +26,10 @@
 * [cite_start]**AI Integration:** Evaluated and integrated AI-assisted development tools (Copilot, Claude, GitLab Duo) into large-scale engineering workflows[cite: 47].
 * [cite_start]**Leadership:** Serve as the Deputy Leader of the Physics Applications Software Group and the BNL Point of Contact for the Belle II Collaboration[cite: 49, 50].
 
----
-
-## 🎓 Education & Background
-
-* [cite_start]**Ph.D. in Physics** – Budker Institute of Nuclear Physics [cite: 58]
-* [cite_start]**B.S. in Physics** – Novosibirsk State University [cite: 59]
-* [cite_start]Extensive experience in high-energy physics research (CERN, DESY, Cornell)[cite: 56].
-
----
 
 ## 📬 Connect with Me
 
 * [cite_start]**LinkedIn:** [linkedin.com/in/alexander-undrus](https://www.linkedin.com/in/alexander-undrus-5329b138b) [cite: 4]
-* [cite_start]**Email:** alexundrus@gmail.com [cite: 3]
-
-> [cite_start]"Modernizing legacy systems into resilient, maintainable architectures." [cite: 8]
-
 
 <!--
 **aundrus/aundrus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
