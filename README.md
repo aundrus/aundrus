@@ -24,7 +24,7 @@ Specializing in the intersection of enterprise architecture, data analytics, and
 * **Real-Time Analytics:** Architected an Oracle-driven monitoring platform providing real-time CI and performance analytics.  
 * **Cloud & Containers:** Implemented automated containerization pipelines (Docker/Podman) and ported software stacks to the **Summit supercomputer**.
 * **AI Integration:** Evaluated and integrated AI-assisted development tools (Copilot, Claude, Gemini) into large-scale engineering workflows.
-* **Leadership:** Deputy Leader of the Physics Applications Software Group and BNL Point of Contact for the Belle II Collaboration.
+* **Automation & Tool Development:** Authored and maintained custom management tools (Linux, Python, Bash) to automate administrative tasks, increasing deployment consistency and reducing manual intervention
 
 ---
 
